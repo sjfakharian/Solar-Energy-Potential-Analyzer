@@ -1,16 +1,17 @@
-# Solar Panel Investment Recommender System
+# Solar Energy Potential Analyzer 🌞📈
 
-This project aims to build a recommender system to suggest the best geographic locations for solar panel investments using NASA's solar radiation data. By analyzing solar radiation intensity and angle of incidence, we can identify optimal areas for solar energy generation.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
-## Project Overview
+A tool to analyze solar energy potential using multi-source data integration.
 
-- **Goal**: Create a recommender system that suggests the best locations for solar panel investments based on solar radiation data.
-- **Data**: NASA's solar radiation data, including solar radiation intensity and angle of incidence.
-- **Technologies**: Python, Machine Learning, Data Science (Pandas, NumPy, Scikit-learn), Visualization (Matplotlib, Seaborn).
+## ✨ Features
+- Solar radiation analysis (NASA)
+- Economic viability assessment
+- AI-powered data completion
+- Country development analysis
 
-## Installation
-
-To set up the environment, run:
-
+## 📦 Installation
 ```bash
+git clone https://github.com/yourusername/solar-energy-analyzer.git
 pip install -r requirements.txt

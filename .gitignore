@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+config.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

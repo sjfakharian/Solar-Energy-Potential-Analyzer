@@ -1,0 +1,7 @@
+[API_KEYS]
+NASA = your_nasa_key_here
+OPENAI = your_openai_key_here
+
+[SETTINGS]
+cache_expiry = 3600
+log_level = INFO

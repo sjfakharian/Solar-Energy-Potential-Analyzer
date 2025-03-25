@@ -11,24 +11,15 @@ A tool to analyze solar energy potential using multi-source data integration.
 - AI-powered data completion
 - Country development analysis
 
-## 📦 Installation
-```bash
-git clone https://github.com/yourusername/solar-energy-analyzer.git
-pip install -r requirements.txt
-
-📄 Documentation
+## 📄 Documentation
 See ANALYSIS_LOGIC.md for technical details.
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests welcome! Follow our contribution guidelines.
 
-Copy
 
-### 2. `requirements.txt`
-```text
-requests==2.31.0
-geopy==2.4.1
-openai==1.3.6
-pandas==2.0.3
-python-dotenv==1.0.0
-configparser==5.3.0
+### 📦 Installation
+```bash
+git clone https://github.com/sjfakharian/solar-energy-analyzer.git
+pip install -r requirements.txt
+
